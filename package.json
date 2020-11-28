@@ -29,12 +29,12 @@
   },
   "homepage": "https://github.com/erdinccurebal/heroku-typescript-project01#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
     "@types/express": "^4.17.9",
     "@types/node": "^14.14.10",
-    "dotenv": "^8.2.0",
     "nodemon": "^2.0.6",
     "ts-node": "^9.0.0",
     "tslint": "^6.1.3",
